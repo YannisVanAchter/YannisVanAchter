@@ -20,9 +20,9 @@ def test()
    return 'Sorry, I can do nothing for you.'
 stat = {'Sorry, I can do nothing for you.' : 0,
         'I\'m you\'r motivate men !' : 0}
-for i in range(200):
+for i in range(100):
   stat[test()] += 1
-print(f'result: {stat['I\'m you\'r motivate men !']/200}% of the time motivated.')
+print(f'result: {stat['I\'m you\'r motivate men !']}% of the time motivated.')
 ```
 
 <img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/jFJW3hOGQgTUk/giphy.gif"></img>
