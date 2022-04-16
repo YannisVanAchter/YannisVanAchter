@@ -1,6 +1,6 @@
 ### Welcome, I'm Yannis Van Achter
 
-### I live in Namur in Beliugm and I study computer science since september 2021.
+### I live in Namur in Belgium and I study computer science since september 2021.
 
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media0.giphy.com/media/Old8vauwiesMfE0jL5/giphy.gif?cid=ecf05e47aqmbnmo0idpmmig9m0ms60ly6j79ey2z9wjn79ai&rid=giphy.gif&ct=g"/>
@@ -8,7 +8,7 @@
 
 ### Why computer scientist and not astronaut ?
 
-I was quickly attracted by the development and I am afraid to venture too far (naturally) I went to the computer science a mixture of **logic** and **design** two elements that interest me 
+I was quickly attracted by the development and I am afraid to venture too far (naturally) I went to the computer science a mixture of **logic** and 
 **creativity** two elements that interest me **greatly**.
 
 ### Study MIT, Harvard ?
