@@ -62,7 +62,9 @@ def god_detect_bullshit(is_bullshit: bool = False):
 Yes
 > No 😭
 
-**Most of my projects are detailed on my site with precise and illustrated explanations.**<br/>
+**Most of my projects are detailed on my site with precise and illustrated explanations.**
+
+[![the language I use](https://github-readme-stats.vercel.app/api/top-langs/?username=YannisVanAchter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <br/>
@@ -127,6 +129,9 @@ QUOTES
 
 PASS A KEY SYMBOL
 use '\' 
+
+Stat of my language
+use [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 USEFUL LINK TO CREATE A README.md
 https://docs.github.com/en
