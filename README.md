@@ -13,7 +13,7 @@ I was quickly attracted by the development and I am afraid to venture too far (n
 
 ### Study MIT, Harvard ?
 ```python
-def test()
+def test():
   yannis = object()
   if yannis.intention > 0:
     return 'I\'m you\'r motivate men !'
