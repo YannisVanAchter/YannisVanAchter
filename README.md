@@ -18,16 +18,12 @@ def test():
   if yannis.intention > 0:
     return 'I\'m you\'r motivate men !'
    return 'Sorry, I can do nothing for you.'
-stat = {'Sorry, I can do nothing for you.' : 0,
-        'I\'m you\'r motivate men !' : 0}
-for i in range(100):
-  stat[test()] += 1
-print(f'result: {stat['I\'m you\'r motivate men !']}% of the time motivated.')
+print(test())
 ```
 
 <img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/jFJW3hOGQgTUk/giphy.gif"></img>
 
-*result: 50% of the time motivated.*
+*result: I'm you'r motivate men !*
 
 **Well, ok... right 😕, I admit I learned a lot on my own in my corner and then ?**
   - [x] Nobody forces me to do it and yet I do it
@@ -62,7 +58,7 @@ def god_detect_bullshit(is_bullshit: bool = False):
 Yes
 > No 😭
 
-**Most of my projects are detailed on my site with precise and illustrated explanations.**
+**Most of my projects are going to be detailed on my site with precise and illustrated explanations.**
 
 [![the language I use](https://github-readme-stats.vercel.app/api/top-langs/?username=YannisVanAchter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
