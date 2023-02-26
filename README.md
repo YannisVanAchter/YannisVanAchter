@@ -14,9 +14,11 @@ To contact me use <a href="https://www.linkedin.com/in/yannis-van-achter-7456052
 
 # Sumery
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisVanAchter&hide_progress=false&theme=dark" />
+    <img align="center" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisVanAchter&hide_progress=false&theme=dark&card_width=300&langs_count=10" 
+     />
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YannisVanAchter&show_icons=true&theme=dark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YannisVanAchter&show_icons=true&theme=dark&include_all_commits=true&ring_color=#4efb00&disable_animations=true" />
  </p>
 <!--
 REMIND TO MYSELF : STUDY HOW TO CREATE README.: status: ok
