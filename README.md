@@ -1,25 +1,44 @@
-# Hi, I'm Yannis Van Achter, 
+# Yannis Van Achter
 
-A bachelor student in computer science at UNamur in Belgium.
+## About me
 
-Currently halfway through my first year and in my second year, I'm involved in a junior enterprise called <a href="https://www.cslabs.be/">CSLabs</a>.
-My work within this JE consists in organizing trainings, managing the wiki and the Youtube channel of the CSLabs as well as a little bit of administrative work like any company administrator.
-But I don't only do that, I also participate in the organisation of the annual event of the JE which is the Hackathon. And I'm also involved in an internal project to manage the company's members.
+I'm a computer science bachelor student at UNamur in Belgium, currently in my first and second year. I'm passionate about technology and software development, and I'm always looking for new challenges and learning opportunities.
 
-My skills range from back-end development in Python (my favorite language), to React.JS (with TypeScript or JavaScript) 
-You can see my talent on TypeScript thanks to the Hackathon website I managed for the 2023 edition.
-I also have some notion of C and Java that I use in my classes.
+## Experience
 
-To contact me use <a href="https://www.linkedin.com/in/yannis-van-achter-745605224/">LinkedIn</a> or my professional address at CSLabs (<a href="mailto:training@cslabs.be?subject=Contact">training@cslabs.be</a>)
+### CSLabs (Junior enterprise)
 
-# Sumery
-<p align="center">
-    <img align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisVanAchter&hide_progress=false&theme=dark&card_width=300&langs_count=10" 
-     />
+*Organizer, trainer, and administrator*  
+*July 2022 - present*
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YannisVanAchter&show_icons=true&theme=dark&include_all_commits=true&ring_color=#4efb00&disable_animations=true" />
- </p>
+At CSLabs, I'm involved in a variety of tasks, including:
+
+- Organizing trainings for members and clients
+- Managing the [CSLabs wiki](https://jebelgium.notion.site/jebelgium/Wiki-CSLabs-92824aeffd26406ca6d3cc64e8b1c4bc) and [YouTube channel](https://www.youtube.com/@CSLabs_Namur/featured)
+- Doing some administrative work as any company administrator would
+
+In addition to these tasks, I also:
+
+- Helped organize the JE's annual event, the Hackathon
+- Am involved in an internal project for managing company members
+
+Check out [CSLabs website](https://www.cslabs.be/) to learn more about the junior enterprise.
+
+## Skills
+
+- Programming languages: Python, Java, C, JavaScript
+- Web development: HTML, CSS, React, Node.js
+- Databases: MySQL, PostgreSQL
+- Version control: Git
+
+## GitHub Stats
+
+![Yannis Van Achter's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannisVanAchter&show_icons=true&theme=radical)
+
+## Education
+
+- Bachelor in Computer Science, UNamur (expected graduation: 2025)
+
 <!--
 REMIND TO MYSELF : STUDY HOW TO CREATE README.: status: ok
 
