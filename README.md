@@ -26,10 +26,30 @@ Check out [CSLabs website](https://www.cslabs.be/) to learn more about the junio
 
 ## Skills
 
-- Programming languages: Python, Java, C, JavaScript
-- Web development: HTML, CSS, React, Node.js
-- Databases: MySQL, PostgreSQL
-- Version control: Git
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannisVanAchter&theme=radical&layout=compact)
+
+**Programming Languages**
+
+- Python
+- Java
+- C
+- JavaScript
+
+**Web development**
+
+- HTML
+- CSS
+- React
+- Node.js
+
+**Databases**
+
+- MySQL
+- PostgreSQL
+
+**Version control**
+
+- Git
 
 ## GitHub Stats
 
@@ -38,6 +58,7 @@ Check out [CSLabs website](https://www.cslabs.be/) to learn more about the junio
 ## Education
 
 - Bachelor in Computer Science, UNamur (expected graduation: 2025)
+
 
 <!--
 REMIND TO MYSELF : STUDY HOW TO CREATE README.: status: ok
