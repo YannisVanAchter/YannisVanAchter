@@ -19,7 +19,7 @@ At CSLabs, I'm involved in a variety of tasks, including:
 
 In addition to these tasks, I also:
 
-- Helped organize the JE's annual event, the Hackathon
+- Helped organize the JE's annual event, the [Hackathon](https://hackathon.cslabs.be/)
 - Am involved in an internal project for managing company members
 
 Check out [CSLabs website](https://www.cslabs.be/) to learn more about the junior enterprise.
