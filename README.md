@@ -31,9 +31,8 @@ Check out [CSLabs website](https://www.cslabs.be/) to learn more about the junio
 **Programming Languages**
 
 - Python
-- Java
-- C
 - JavaScript
+- TypeScript
 
 **Web development**
 
