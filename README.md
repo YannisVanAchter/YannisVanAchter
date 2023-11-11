@@ -4,26 +4,6 @@
 
 I'm a computer science bachelor student at UNamur in Belgium, currently in my first and second year. I'm passionate about technology and software development, and I'm always looking for new challenges and learning opportunities.
 
-## Experience
-
-### CSLabs (Junior enterprise)
-
-*Organizer, trainer, and administrator*  
-*July 2022 - present*
-
-At CSLabs, I'm involved in a variety of tasks, including:
-
-- Organizing trainings for members and clients
-- Managing the [CSLabs wiki](https://jebelgium.notion.site/jebelgium/Wiki-CSLabs-92824aeffd26406ca6d3cc64e8b1c4bc) and [YouTube channel](https://www.youtube.com/@CSLabs_Namur/featured)
-- Doing some administrative work as any company administrator would
-
-In addition to these tasks, I also:
-
-- Helped organize the JE's annual event, the [Hackathon](https://hackathon.cslabs.be/)
-- Am involved in an internal project for managing company members
-
-Check out [CSLabs website](https://www.cslabs.be/) to learn more about the junior enterprise.
-
 ## Skills
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannisVanAchter&theme=radical&layout=compact)
