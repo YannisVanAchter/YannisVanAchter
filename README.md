@@ -2,42 +2,73 @@
 
 ## About me
 
-I'm a computer science bachelor student at UNamur in Belgium, currently in my first and second year. I'm passionate about technology and software development, and I'm always looking for new challenges and learning opportunities.
+I'm a computer science bachelor student at UNamur in Belgium. I'm passionate about technology and software development, and I'm always looking for new challenges and learning opportunities.
 
 ## Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannisVanAchter&theme=radical&layout=compact)
-
-**Programming Languages**
-
-- Python
-- JavaScript
-- TypeScript
-
-**Web development**
-
-- HTML
-- CSS
-- React
-- Node.js
-
-**Databases**
-
-- MySQL
-- PostgreSQL
-
-**Version control**
-
-- Git
-
-## GitHub Stats
-
-![Yannis Van Achter's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannisVanAchter&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td valign="top">
+      <table>
+        <tr>
+          <th>Programming Languages</th>
+          <th>Web development</th>
+          <th>Databases</th>
+          <th>Utils</th>
+        </tr>
+        <tr>
+          <td>Python</td>
+          <td>React.JS</td>
+          <td>MySQL</td>
+          <td>Git and GitHub</td>
+        </tr>
+        <tr>
+          <td>JavaScript</td>
+          <td>Node.JS</td>
+          <td>PostgreSQL</td>
+          <td>Docker</td>
+        </tr>
+        <tr>
+          <td>TypeScript</td>
+          <td>FastAPI</td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>HTML</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>CSS</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisVanAchter&theme=radical&layout=compact"></td>
+  </tr>
+</table>
 
 ## Education
 
 - Bachelor in Computer Science, UNamur (expected graduation: 2025)
 
+## Github Stats
+
+![Yannis Van Achter's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannisVanAchter&show_icons=true&theme=radical)
+
+## Global stats for last 7 days
+
+### Wakatime languages stats
+
+![Yannis Van Achter's Wakatime languages stats](./stat_language.svg)
+
+### Wakatime Projects stats
+
+![Yannis Van Achter's Wakatime projects stats](./stat_project.svg)
 
 <!--
 REMIND TO MYSELF : STUDY HOW TO CREATE README.: status: ok
@@ -53,7 +84,7 @@ LIST unsorted
 
 IMAGE
 ![text afficher](liens vers l'image) // basic
-// image privée ou de droit public
+// !image privée ou de droit public
 
 <p aline="center/left/right">
   <img
