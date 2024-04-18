@@ -21,7 +21,7 @@ inputs:
   BRANCH:
     description: 'Which branch is used for saving images'
     required: false
-    default: "master"
+    default: "main"
 
   COMMIT_MSG:
     description: 'Manual commit messages'
