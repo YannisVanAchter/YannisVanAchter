@@ -4,11 +4,25 @@
 # Distributed under the terms of MIT License
 # The full license is in the file LICENSE, distributed with this software.
 
-FROM ghcr.io/avinal/lark:1.0.0
+FROM python:3.9-alpine
 
 # Add files to docker
-ADD main.py entrypoint.sh colors.json /
+COPY . /app
 
-# run final script
-CMD python3 /main.py
-CMD /entrypoint.sh
+# Set working directory
+WORKDIR /app
+
+# Install dependencies
+RUN pip install -r requirements.txt
+
+# Set environment variables
+ENV PYTHONUNBUFFERED=1
+
+# Expose port
+EXPOSE 8000
+
+# Set entrypoint
+ENTRYPOINT ["/entrypoint.sh"]
+
+# Run the application
+CMD ["python", "main.py"]
