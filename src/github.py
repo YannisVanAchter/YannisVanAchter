@@ -6,15 +6,15 @@ import requests
 
 # Constants
 load_dotenv() 
-GITHUB_USER = os.getenv("GITHUB_USER", None)
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", None)
+GITHUB_USER = os.getenv("USER", None)
+GITHUB_TOKEN = os.getenv("TOKEN", None)
 
 if GITHUB_USER is None or GITHUB_TOKEN is None:
     message = "Please add your GitHub username and token to the .env file"
     if __name__ == "__main__":
         raise ImportError(message)
     message += " or as environment variables."
-    message += "\n== Module requires GITHUB_USER and GITHUB_TOKEN to be set. ==\n"
+    message += "\n== Module requires USER and TOKEN to be set. ==\n"
     raise ImportError(message)
 
 def _get(url):
