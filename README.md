@@ -8,47 +8,40 @@ I'm a computer science bachelor student at UNamur in Belgium. I'm passionate abo
 
 <table>
   <tr>
-    <td valign="top">
-      <table>
-        <tr>
-          <th>Programming Languages</th>
-          <th>Web development</th>
-          <th>Databases</th>
-          <th>Utils</th>
-        </tr>
-        <tr>
-          <td>Python</td>
-          <td>React.JS</td>
-          <td>MySQL</td>
-          <td>Git and GitHub</td>
-        </tr>
-        <tr>
-          <td>JavaScript</td>
-          <td>Node.JS</td>
-          <td>PostgreSQL</td>
-          <td>Docker</td>
-        </tr>
-        <tr>
-          <td>TypeScript</td>
-          <td>FastAPI</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>HTML</td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>CSS</td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannisVanAchter&theme=radical&layout=compact"></td>
+    <th>Programming Languages</th>
+    <th>Web development</th>
+    <th>Databases</th>
+    <th>Utils</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>React.JS</td>
+    <td>MySQL</td>
+    <td>Git and GitHub</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Node.JS</td>
+    <td>PostgreSQL</td>
+    <td>Docker</td>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+    <td>FastAPI</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
@@ -64,11 +57,11 @@ I'm a computer science bachelor student at UNamur in Belgium. I'm passionate abo
 
 ### Wakatime languages stats
 
-![Yannis Van Achter's Wakatime languages stats](./stat_language.svg)
+![Yannis Van Achter's Wakatime languages stats](./src/img/stat_language.svg)
 
 ### Wakatime Projects stats
 
-![Yannis Van Achter's Wakatime projects stats](./stat_project.svg)
+![Yannis Van Achter's Wakatime projects stats](./src/img/stat_project.svg)
 
 <!--
 REMIND TO MYSELF : STUDY HOW TO CREATE README.: status: ok
