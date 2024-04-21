@@ -51,7 +51,6 @@ def get_stats() -> dict[str, list]:
     for project in project_data:
         find = False
         for owner in get_possible_owners(project["name"]):
-            print(owner, project["name"], sep="/")
             if has_contributed_to_repo(owner, project["name"]):
                 project_name.append(owner + "/" + project["name"])
                 find = True
