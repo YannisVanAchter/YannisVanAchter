@@ -27,3 +27,15 @@ jobs:
           USER: ${{ secrets.USER }}
           TOKEN: ${{ secrets.TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      - name: Set up Git
+        run: |
+          git config --global user.email "${GITHUB_ACTOR_ID}+${GITHUB_ACTOR}@users.noreply.github.com"
+          git config --global user.name "${{ github.actor }}"
+          git config -l
+      - name: Commit and push changes
+        run: |
+          git add .
+          git commit -m "Update wakatime images"
+          git push
+        env:
+          GH_TOKEN: ${{ github.token }}
