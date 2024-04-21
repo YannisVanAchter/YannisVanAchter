@@ -26,3 +26,4 @@ jobs:
         env:
           USER: ${{ secrets.USER }}
           TOKEN: ${{ secrets.TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
