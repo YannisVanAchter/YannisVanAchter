@@ -1,7 +1,11 @@
 
 on:
- schedule:
-    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  schedule:
+    # Schedule a workflow to run at 5am UTC every day
+    - cron: "0 5 * * *"
 
 jobs:
  Update_Wakatime_img:
