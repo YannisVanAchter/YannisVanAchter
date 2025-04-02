@@ -47,7 +47,8 @@ I'm a computer science bachelor student at UNamur in Belgium. I'm passionate abo
 
 ## Education
 
-- Bachelor in Computer Science, UNamur (expected graduation: 2025)
+- **2024-Current** Bachelor in Software development, Henallux (expected graduation 2027)
+- **2021-2024** Bachelor in Computer Science, UNamur (Reorientation)
 
 ## Github Stats
 
